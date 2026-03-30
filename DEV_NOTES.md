@@ -10,3 +10,8 @@ Personal development log — notes, findings, and ongoing work.
 - Updated CI cache strategy
 - Verified API endpoint response schema
 - Updated license year
+
+## 2026-03-30
+- Added basic usage examples to README
+- Wrote notes on upcoming feature design
+- Resolved TODO items from previous session
